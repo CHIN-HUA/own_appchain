@@ -1,5 +1,6 @@
 # own_appchain
 使用框架打造自己的應用型區塊鏈
+Use the framework to build your own application blockchain
 
 2022/10/7 
 parity-poa networks
