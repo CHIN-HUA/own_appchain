@@ -16,3 +16,6 @@ https://github.com/CHIN-HUA/parity-poa-playground
 2022/10/16
 Substrate 部署公开测试网络
 https://zhuanlan.zhihu.com/p/161293660
+
+GO語言版本教學
+https://blog.csdn.net/weixin_44257754/article/details/107937890
