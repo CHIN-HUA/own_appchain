@@ -23,3 +23,7 @@ https://blog.csdn.net/weixin_44257754/article/details/107937890
 
 https://blog.csdn.net/code_segment/article/details/78160660
 
+教程
+
+https://github.com/anonymousGiga/learn-substrate-easy
+
