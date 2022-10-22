@@ -27,3 +27,7 @@ https://blog.csdn.net/code_segment/article/details/78160660
 
 https://github.com/anonymousGiga/learn-substrate-easy
 
+2022/10/22 polygon模塊化區塊鏈
+
+https://github.com/CHIN-HUA/polygon-edge
+
