@@ -31,3 +31,8 @@ https://github.com/anonymousGiga/learn-substrate-easy
 
 https://github.com/CHIN-HUA/polygon-edge
 
+v神 layer3
+https://vitalik.ca/general/2022/09/17/layer_3.html
+
+
+
