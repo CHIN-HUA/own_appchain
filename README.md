@@ -34,5 +34,9 @@ https://github.com/CHIN-HUA/polygon-edge
 v神 layer3
 https://vitalik.ca/general/2022/09/17/layer_3.html
 
+2022/11/3 polygon edge啟動創世區塊
+
+https://wiki.polygon.technology/docs/edge/get-started/set-up-ibft-locally
+
 
 
