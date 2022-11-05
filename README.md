@@ -42,6 +42,10 @@ substrate evm 模板:
 
 https://github.com/octopus-network/barnacle
 
+beta network:
+![image](https://user-images.githubusercontent.com/72617049/200116265-116d96c8-8abd-4032-9c72-0599370416f5.png)
+
+
 
 
 
