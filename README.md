@@ -38,5 +38,10 @@ https://vitalik.ca/general/2022/09/17/layer_3.html
 
 https://wiki.polygon.technology/docs/edge/get-started/set-up-ibft-locally
 
+substrate evm 模板:
+
+https://github.com/octopus-network/barnacle
+
+
 
 
