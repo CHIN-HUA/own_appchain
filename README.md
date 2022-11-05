@@ -39,11 +39,16 @@ https://vitalik.ca/general/2022/09/17/layer_3.html
 https://wiki.polygon.technology/docs/edge/get-started/set-up-ibft-locally
 
 substrate evm 模板:
-
 https://github.com/octopus-network/barnacle
 
 beta network:
 ![image](https://user-images.githubusercontent.com/72617049/200116265-116d96c8-8abd-4032-9c72-0599370416f5.png)
+
+near 跨鏈橋:
+https://testnet.rainbowbridge.app/
+
+應用鏈跨鏈
+https://testnet.oct.network/bridge/near/barnacle0928
 
 
 
