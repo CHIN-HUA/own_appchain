@@ -56,6 +56,9 @@ https://github.com/CHIN-HUA/zksync-cross-chain?organization=CHIN-HUA&organizatio
 near token create
 https://learnnear.club/tokenhub-defi-playground-on-near-testnet/
 
+near swap
+https://testnet.trade.spin.fi/swap
+
 
 
 
