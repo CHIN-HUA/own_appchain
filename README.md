@@ -61,6 +61,7 @@ https://testnet.trade.spin.fi/swap
 
 https://testnet.ref.finance/#wrap.testnet|usdn.testnet
 
+https://near-testnet.upfi.network/faucet
 
 
 
