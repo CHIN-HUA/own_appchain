@@ -53,6 +53,9 @@ https://testnet.oct.network/bridge/near/barnacle0928
 layer1 -> layer2:
 https://github.com/CHIN-HUA/zksync-cross-chain?organization=CHIN-HUA&organization=CHIN-HUA
 
+near token create
+https://learnnear.club/tokenhub-defi-playground-on-near-testnet/
+
 
 
 
